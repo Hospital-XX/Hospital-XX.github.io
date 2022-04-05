@@ -4,7 +4,8 @@ title:  "CITAS"
 description: Podras agendar una cita por Liena o presencial.
 date: 2022-02-23
 categories: Paciente
-img: ![image](https://user-images.githubusercontent.com/99769850/161639867-046504f2-ef1a-4c82-bdd5-86fc855adf5f.png)
+img: ![image](https://user-images.githubusercontent.com/99769850/161850514-f81043e2-f22f-4887-888c-efaf9b402f67.png)
 author: Fundador
 ---
+
 
