@@ -3,7 +3,7 @@ layout: post
 title:  "ESPECIALIDADES"
 description: Nuestro Hospital lleva a cabo especialidades ejercidas y nuestros doctores llevan el conocimiento excelente para aplicarlas.
 date: 2022-02-23
-categories: Medicina Interna 
+categories: Medicina a tu corazon
 img: 
 author: FUNDADOR
 ---
@@ -14,11 +14,12 @@ author: FUNDADOR
 ## MEDICINA INTERNA 
 
 1. Cardiologia 
-2. Nefrologia 
-3. Hematologia
-4. endocrinología
-5. gastroenterología
-6. Nutricion  
+2. Medico Cirujano 
+3. Nefrologia 
+4. Hematologia
+5. endocrinología
+6. gastroenterología
+7. Nutricion  
 
 
 ## MEDICINA GENERAL 
