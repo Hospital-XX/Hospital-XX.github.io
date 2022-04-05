@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "PERSONAL"
+description: Nam condimentum vehicula quam, nec laoreet nisl accumsan quis. Ut a scelerisque orci. Mauris erat risus, pellentesque at purus a, vehicula tincidunt erat.
+date:   2022-02-23
+categories: technology update
+img: 
+author: Artem Sheludko
+---
+
+### PERSONAL 
+
+## 
