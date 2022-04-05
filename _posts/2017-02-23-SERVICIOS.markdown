@@ -12,9 +12,9 @@ author: Artem Sheludko
 ### NUESTROS SERVICIOS 
 
 
-Preconsulta General	            |    Cirugía Pediátrica
+Preconsulta General	              |    Cirugía Pediátrica
 Medicina Interna	              |    Cirugía Genera
-Cirugía Endoscópica             |    Dermatología
+Cirugía Endoscópica               |    Dermatología
 Ortopedia	                      |    Pediatría
 Cirugía Plástica                |   Reconstructiva	Urología
 Neonatología	                  |   Clínica de Obesidad             
