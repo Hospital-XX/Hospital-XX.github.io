@@ -4,8 +4,23 @@ title:  "CITAS"
 description: Podras agendar una cita por Liena o presencial.
 date: 2022-02-23
 categories: Paciente
-img: ![image](https://user-images.githubusercontent.com/99769850/161850514-f81043e2-f22f-4887-888c-efaf9b402f67.png)
+img: ![image](https://user-images.githubusercontent.com/99769850/161850741-63caaa36-17a3-49c5-9db8-9ad056e16004.png)
+
 author: Fundador
 ---
+
+### CITAS EN LINEA 
+
+Consulta la sigiente pagina en donde se te facilitara proporcionar el dia y la hora solo proprorcinando el numero folio y la contraseña con la que usted ingreso al hospital.
+
+Hospital-XX.github.io
+
+
+
+
+### CITAS PRESENCIAL 
+
+Podras sacar cita el Hospoital XX en el area de Trabajo Social que se encuntra en el 3er piso. 
+
 
 
