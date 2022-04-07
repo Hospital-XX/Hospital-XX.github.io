@@ -7,15 +7,27 @@ img:
 author: FUNDADOR
 ---
 
-### FARMACIA 
+
 
 | PRODUCTO   |     USO      |
 |-------------|--------------|
 |Analgésicos |tienen como finalidad aliviar el dolor físico, ya sea de cabeza, de articulaciones o cualquiera. Su catálogo se puede dividir en dos grandes familias: los opiáceos y los no opiáceos | 
+
+
 | Antiácidos y antiulcerosos |  la disminución de las secreciones gástricas. Si disminuye la acidez, se previene la aparición de úlceras. Un ejemplo conocido es el Omeprazol |
-|Antialérgicos | tienen la finalidad de combatir los efectos negativos de las reacciones alérgicas o la hipersensibilidad.
-| Antidiarreicos y laxantes | Los antidiarreicos son tipos de medicamentos que tienen como propósito aliviar y detener los efectos de la diarrea.
-| Antiinfecciosos | Este tipo de medicamentos están recetados para hacer frente a infecciones. Dependiendo del agente infeccioso, se clasifican en antibióticos (contra bacterias), antifúngicos (contra hongos), antivirales (contra virus) y antiparasitarios (contra parásitos).
-| Antiinflamatorios | son fármacos que tienen como finalidad reducir los efecto de la inflamación.
-| Antipiréticos | Los fármacos antipiréticos son un tipo de medicamentos que tienen la capacidad de reducir la fiebre. 
-| Antitusivos y mucolíticos | Son fármacos que se recetan para tratar de reducir la tos no productiva, es decir, que no libera mucosidad. Se debe tener sumo cuidado con su dosis, ya que algunos de ellos, como la codeína, producen adicción.
+
+|Antialérgicos | tienen la finalidad de combatir los efectos negativos de las reacciones alérgicas o la hipersensibilidad |
+
+
+| Antidiarreicos y laxantes | Los antidiarreicos son tipos de medicamentos que tienen como propósito aliviar y detener los efectos de la diarrea | 
+
+| Antiinfecciosos | Este tipo de medicamentos están recetados para hacer frente a infecciones. Dependiendo del agente infeccioso, se clasifican en antibióticos (contra bacterias), antifúngicos (contra hongos), antivirales (contra virus) y antiparasitarios (contra parásitos) | 
+
+
+| Antiinflamatorios | son fármacos que tienen como finalidad reducir los efecto de la inflamación | 
+
+
+| Antipiréticos | Los fármacos antipiréticos son un tipo de medicamentos que tienen la capacidad de reducir la fiebre | 
+
+
+| Antitusivos y mucolíticos | Son fármacos que se recetan para tratar de reducir la tos no productiva, es decir, que no libera mucosidad. Se debe tener sumo cuidado con su dosis, ya que algunos de ellos, como la codeína, producen adicción | 
