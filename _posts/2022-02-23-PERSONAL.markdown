@@ -4,7 +4,7 @@ title:  "PERSONAL"
 description: Conoce nuestro equipo que nos ayuda  estar contigo siempre 
 date:   2022-02-23
 categories: technology update
-img: Servicos.jpg
+img: 
 
 author: Artem Sheludko
 ---
