@@ -4,7 +4,7 @@ title:  "ESPECIALIDADES"
 description: Nuestro Hospital lleva a cabo especialidades ejercidas y nuestros doctores llevan el conocimiento excelente para aplicarlas.
 date: 2022-02-23
 categories: Medicina a tu corazon
-img: 
+img: Medico.jpg
 author: FUNDADOR
 ---
 
