@@ -3,7 +3,7 @@ layout: post
 title:  "CONTACTOS"
 date:   2022-02-10 
 categories: jekyll update
-img: 1000.jpg
+img: descarga.jpg
 author: FUNDADOR
 ---
 ### CONTACTANOS
