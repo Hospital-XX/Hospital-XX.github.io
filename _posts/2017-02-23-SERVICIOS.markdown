@@ -4,7 +4,7 @@ title:  "SERVICIOS"
 description: Tipos de Servicios que otorga el Hospital XX
 date: 2022-02-23
 categories: Medicina General 
-img: ![image](https://user-images.githubusercontent.com/99769850/161857606-63d9e1ba-aa16-4e77-9ce0-111790686b82.png)
+img: https://user-images.githubusercontent.com/99769850/161857606-63d9e1ba-aa16-4e77-9ce0-111790686b82.png
 
 author: Artem Sheludko
 ---
