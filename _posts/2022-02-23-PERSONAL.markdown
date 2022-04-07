@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PERSONAL"
-description: Nam condimentum vehicula quam, nec laoreet nisl accumsan quis. Ut a scelerisque orci. Mauris erat risus, pellentesque at purus a, vehicula tincidunt erat.
+description: Conoce nuestro equipo que nos ayuda  estar contigo siempre 
 date:   2022-02-23
 categories: technology update
 img: ![image](https://user-images.githubusercontent.com/99769850/161856702-c443a190-2aba-4c54-971e-0c3ad947dfc3.png)
