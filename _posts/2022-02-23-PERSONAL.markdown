@@ -4,7 +4,7 @@ title:  "PERSONAL"
 description: Conoce nuestro equipo que nos ayuda  estar contigo siempre 
 date:   2022-02-23
 categories: technology update
-img: ![image](https://user-images.githubusercontent.com/99769850/161856702-c443a190-2aba-4c54-971e-0c3ad947dfc3.png)
+img: Servicos.jpg
 
 author: Artem Sheludko
 ---
