@@ -4,7 +4,7 @@ title:  "DIRECTORIO"
 description: Encuentra informacion que sea util. 
 date: 2022-02-23
 categories: technology update
-img: medico-700x466.jpg
+img: 
 author: Fundador
 ---
 ### DIRECTORIO 
