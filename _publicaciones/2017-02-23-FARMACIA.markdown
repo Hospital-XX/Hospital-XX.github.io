@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FRAMACIA"
+title:  "FARMACIA
 description: Nuestros mejores Medicamentos a tu alcance 
 date: 2022-02-23
 img: farmacia.jpg
