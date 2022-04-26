@@ -6,7 +6,7 @@ date:   2022-02-23
 categories: technology update
 img: personal.jpeg
 
-author: Artem Sheludko
+author: FUNDADOR
 ---
 
 ### PERSONAL 
