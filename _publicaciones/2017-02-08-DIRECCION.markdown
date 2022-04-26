@@ -4,7 +4,7 @@ title:  "DIRECCION"
 descripcion : Encuentranos  al tu alcance 
 date: 2017-02-08 14:10:25 +0200
 categories: jekyll update
-img: jekyll-poster.png
+img: ubicacion.jpg
 author: Fundador
 ---
 
