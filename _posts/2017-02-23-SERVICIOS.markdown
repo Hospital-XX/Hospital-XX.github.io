@@ -6,7 +6,7 @@ date: 2022-02-23
 categories: Medicina General 
 img: servicios.jpeg
 
-author: Artem Sheludko
+author: FUNDADOR
 ---
 
 ### NUESTROS SERVICIOS 
