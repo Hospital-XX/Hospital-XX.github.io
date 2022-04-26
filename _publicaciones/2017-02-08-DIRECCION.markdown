@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DIRECCION
+title:  "DIRECCION"
 descripcion : Encuentranos  al tu alcance 
 date: 2017-02-08 14:10:25 +0200
 categories: jekyll update
